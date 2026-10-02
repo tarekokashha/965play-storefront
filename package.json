@@ -1,0 +1,23 @@
+{
+  "name": "965play-storefront",
+  "version": "1.0.0",
+  "private": true,
+  "type": "module",
+  "description": "Case study of the 965play gaming and PC storefront for Kuwait: bilingual WooCommerce, city-aware delivery at checkout and a pre-sales PC-expert button. By Tarek Okasha.",
+  "license": "CC-BY-4.0",
+  "author": "Tarek Okasha",
+  "homepage": "https://github.com/tarekokashha/965play-storefront",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tarekokashha/965play-storefront.git"
+  },
+  "bugs": {
+    "url": "https://github.com/tarekokashha/965play-storefront/issues"
+  },
+  "engines": {
+    "node": ">=20"
+  },
+  "scripts": {
+    "check": "node scripts/check-repo.mjs"
+  }
+}

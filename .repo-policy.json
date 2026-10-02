@@ -1,0 +1,37 @@
+{
+  "requiredFiles": [
+    "README.md",
+    "README.ar.md",
+    "LICENSE",
+    "NOTICE.md",
+    "SECURITY.md",
+    "CONTRIBUTING.md",
+    "CODE_OF_CONDUCT.md",
+    "CHANGELOG.md",
+    "docs/delivery-and-checkout.md",
+    "docs/pc-expert-button.md",
+    "docs/audit-and-roadmap.md",
+    "docs/stack-and-structure.md"
+  ],
+  "forbiddenPaths": [
+    "\\.(woff2?|otf|ttf|eot)$",
+    "\\.(zip|tar|gz|tgz|7z|rar)$",
+    "(^|/)\\.env(\\..*)?$",
+    "\\.(pem|key|p12|pfx)$",
+    "(^|/)id_(rsa|ed25519)",
+    "\\.(sql|sqlite|db)$",
+    "(^|/)node_modules/",
+    "(^|/)\\.DS_Store$"
+  ],
+  "noThirdPartyDirs": [],
+  "noThirdPartyHosts": [],
+  "allowedEmails": [
+    "@example\\.(com|org)$",
+    "@users\\.noreply\\.github\\.com$",
+    "@your-store\\.example$"
+  ],
+  "allowedPhones": [
+    "966500000000"
+  ],
+  "jsSyntaxDirs": []
+}
